@@ -1,2 +1,13 @@
-# codealpha_task1
-Image Gallery - CodeAlpha Internship Task 1 A responsive image gallery built with HTML, CSS, and JavaScript. Features a clean layout and interactive image viewing.
+# CodeAlpha Internship - Task 1: Image Gallery
+
+### 🚀 Features
+
+- Fully responsive design (Mobile-friendly)
+- Lightbox/Modal view for full-screen images
+- Smooth hover effects and transitions
+
+### 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (Flexbox/Grid)
+- JavaScript (DOM Manipulation)
